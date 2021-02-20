@@ -1,0 +1,14 @@
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\bin\Debug\Dong_Ho.exe.config
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\bin\Debug\Dong_Ho.exe
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\bin\Debug\Dong_Ho.pdb
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.csprojAssemblyReference.cache
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.frmmain.resources
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.Properties.Resources.resources
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.csproj.GenerateResource.cache
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.csproj.CoreCompileInputs.cache
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.exe
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.pdb
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Interop.WMPLib.dll
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.csproj.ResolveComReference.cache
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.loadding.resources
+D:\NGHIEM\winform\Dong_Ho\Dong_Ho\obj\Debug\Dong_Ho.exe.licenses
